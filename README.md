@@ -1,6 +1,6 @@
 # 👋 Hey There, I’m Karthik Nair
-### 👨‍💻 High School student as of 2021-05-24
-### 💻 Codes in python (i guess i'm still a beginner)
-### 📚 Learning shell scripting along with Python
-### 🤖 Interested in Machine Learning, currently stuffing myself with the prerequisite math and Python
-### 👎 Omnivert by nature, Extrovert with coders and Introvert with bare idiots
+### 👨‍💻 High-School student
+### 💻 Codes in Python3
+### 📚 Learning shell scripting
+### 🤖 Interested in Machine Learning, Currently digesting the prerequisites
+### 👎 Omnivert by nature
