@@ -2,5 +2,5 @@
 ### 👨‍💻 High-School student
 ### 💻 Codes in Python3
 ### 📚 Learning shell scripting
-### 🤖 Interested in Machine Learning, Currently digesting the prerequisites
+### 🤖 Interested in Machine Learning
 ### 👎 Omnivert by nature
