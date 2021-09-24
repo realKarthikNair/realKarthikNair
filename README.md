@@ -7,13 +7,12 @@
   </tr>
 </table>
 
-### 👨‍💻 High-School student
-### 💻 Codes in Python3
-### 📚 Learning shell scripting
+### 👨‍💻 student
+### 💻 Python, shell scripting, C, Js, HTML
 ### 🤖 Beginner in Machine Learning
 ### 👎 Omnivert by nature
 
  
  #### Stats:
- ![Maitreya's github stats](https://github-readme-stats.vercel.app/api?username=realKarthikNair&show_icons=true&theme=dark)
+ ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=realKarthikNair&show_icons=true&theme=dark)
  
