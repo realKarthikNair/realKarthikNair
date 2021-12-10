@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-### 👨‍💻 First year BCA student at Vips, Delhi
+### 👨‍💻 First Year BCA student at Vips, Delhi
 ### 💻 Python, shell scripting, C, Js, HTML
 ### 🤖 Beginner in Machine Learning
 ### 👎 Omnivert by nature
