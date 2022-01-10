@@ -4,12 +4,12 @@
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/realKarthikNair/count.svg" alt="vistor count" height="30" /></td>
-    <td><p align="left"> <a href="https://twitter.com/realkarthiknair" target="blank"><img src="https://img.shields.io/twitter/follow/realkarthiknair?logo=twitter&style=for-the-badge" alt="realkarthiknair" /></a> </p></td>
   </tr>
 </table>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=realkarthiknair&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 👨‍💻 First Year BCA student at Vips, Delhi
 
@@ -22,9 +22,9 @@
 - 📫 How to reach me **realkarthiknair@gmail.com**
 
 
-<pa align="left"><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=realkarthiknair&theme=radical"><h3 align="left">Connect with me:</h3></p>
+<pa align="left"><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=realkarthiknair&theme=radical"></p>
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realkarthiknair" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realkarthiknair" height="30" width="40" /></a>
