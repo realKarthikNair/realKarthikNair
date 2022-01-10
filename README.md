@@ -22,7 +22,7 @@
 - 📫 How to reach me **realkarthiknair@gmail.com**
 
 
-<pa align="left"><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=realkarthiknair&theme=radical"></p>
+<pa align="center"><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=realkarthiknair&theme=radical"></p>
 
 
 <p align="left">
