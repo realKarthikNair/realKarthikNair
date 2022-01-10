@@ -1,5 +1,6 @@
 # <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="30px"> Hey There, I’m Karthik Nair
 <h3 align="left">Another Indian student messing with computers!</h3>
+<p align="left">[Potterhead, Linkin Park fanboy, Linux Enthusiast]</p>
 <table>
   <tr>
     <td>You are visitor</td>
@@ -12,7 +13,7 @@
 
 - 💻 Python, shell scripting, C
 
-- 🔭 I’m currently working on [GBoard-Dictionary-Maker](https://github.com/realKarthikNair/GBoard-Dictionary-Maker)
+- 🔭 I’m currently working on some GitHub projects and in expanding my skillset
 
 - 🌱 I’m currently learning **C Language**
 
