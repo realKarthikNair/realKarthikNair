@@ -13,9 +13,9 @@
 
 - 💻 Python, shell scripting, C
 
-- 🔭 I’m currently working on some GitHub projects and in expanding my skillset
+- 🔭 I’m currently working on some GitHub projects and spending time expanding my skillset
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 learning **C Language**
 
 - 📫 **realkarthiknair@gmail.com**
 
