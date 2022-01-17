@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on some GitHub projects and spending time expanding my skillset
 
-- 🌱 learning **C Language**
+- 🌱 [learning **C Language**](https://github.com/realKarthikNair/Learning-C-Lang)
 
 - 📫 **realkarthiknair@gmail.com**
 
