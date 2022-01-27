@@ -9,7 +9,7 @@
 </table>
 
 
-- 👨‍💻 First Year BCA student at Vips, Delhi
+- 👨‍💻 First Year BCA student at [VIPS](https://www.vips.edu), Delhi
 
 - 💻 Python, shell scripting, C
 
