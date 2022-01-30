@@ -20,7 +20,7 @@
 - 📫 **realkarthiknair@gmail.com**
 
 Let me speak it loud :
-"## LINUX IS LOVE ❤️ "
+## LINUX IS LOVE ❤️ 
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
