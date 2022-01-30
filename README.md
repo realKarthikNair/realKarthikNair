@@ -19,6 +19,10 @@
 
 - 📫 **realkarthiknair@gmail.com**
 
+Let me say it loud :
+
+## LINUX IS LOVE <3
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realkarthiknair" height="30" width="40" /></a>
