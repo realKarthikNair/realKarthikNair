@@ -1,5 +1,5 @@
 # <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="30px"> Hey There, I’m Karthik Nair
-<h3 align="left">Another Indian student messing with computers!</h3>
+<font face="arial"><h3 align="left">Another Indian student doing rm -rf</h3></font>
 <p align="left">[Potterhead, Linkin Park fanboy, Linux Enthusiast]</p>
 <table>
   <tr>
