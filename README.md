@@ -13,7 +13,7 @@
 
 - 💻 Python, shell scripting, C
 
-- 🔭 I’m currently working on [some GitHub projects](https://telegra.ph/Some-projects-made-by-me-01-17) and spending time expanding my skillset
+- 🔭 I’m currently working on [some GitHub repos](https://telegra.ph/Some-projects-made-by-me-01-17) and spending time expanding my skillset
 
 - 🌱 [learning **C Language**](https://github.com/realKarthikNair/Learning-C-Lang)
 
