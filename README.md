@@ -53,7 +53,7 @@ Let me speak it loud :
 </p>
 
 <p align="left">
-<h3 align="left">Support me in this Journey!</h3>
+<h3 align="left">If you want to buy me a coffee!</h3>
 <a slign="left" href="https://coindrop.to/realkarthiknair" target="_blank"><img align="left" src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 114px !important;width: 458px !important;" alt="Coindrop.to me"></img></a>
 </p>
 
