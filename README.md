@@ -1,6 +1,6 @@
 # <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="30px"> Hey There, I’m Karthik Nair
 <font face="arial"><h3 align="left">Another Indian student doing computers!</h3></font>
-<p align="left">[Potterhead, Linkin Park fanboy, Linux Enthusiast]</p>
+
 <table>
   <tr>
     <td>You are visitor</td>
