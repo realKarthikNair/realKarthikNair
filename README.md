@@ -19,7 +19,6 @@
 
 - 📫 **realkarthiknair@gmail.com**
 
-Let me speak it loud :
 ## LINUX IS LOVE ❤️ 
 
 <p align="left">
