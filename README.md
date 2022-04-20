@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on some GitHub repos and spending time expanding my skillset
 
--  Serving [ACEVIPS](https://github.com/ACE-VSIT) since 2022
+-  Serving [ACEVIPS](https://vipsace.org/) since 2022
 
 - 🌱 [learning **C Language**](https://github.com/realKarthikNair/Learning-C-Lang)
 
