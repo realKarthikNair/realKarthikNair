@@ -17,7 +17,7 @@
 
 -  Serving [ACEVIPS](https://vipsace.org/) since 2022
 
-- 🌱 [learning **C Language**](https://github.com/realKarthikNair/Learning-C-Lang)
+- 🌱 learning [**C Language**](https://github.com/realKarthikNair/Learning-C-Lang), PHP and JS
 
 - 📫 **realkarthiknair@gmail.com**
 
