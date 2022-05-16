@@ -1,1 +1,3 @@
-# Dumping College Assignments
+### Dumping College Assignments
+
+# DONT JUDGE ME BASED ON THESE SINCE ....
