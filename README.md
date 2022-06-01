@@ -1,4 +1,4 @@
-# <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="30px"> Hey There, I’m Karthik Nair !
+# <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="5%"> Hey There, I’m Karthik Nair !
 <font face="arial"><h3 align="left">LEARNING!!!</h3></font>
 
 <table>
