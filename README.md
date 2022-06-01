@@ -1,4 +1,4 @@
-# <img src="res/Hi.gif" width="30px"> Hey There, I’m Karthik Nair !
+# <img src="res/Hi.gif" width="30px" height="30px"> Hey There, I’m Karthik Nair !
 <font face="arial"><h3 align="left">LEARNING!!!</h3></font>
 
 <table>
