@@ -7,5 +7,5 @@
 Prerequisites : Root Access and Working Brain
 
   1. Install an older version of Google App (atleast 6 months old)
-  2. Systemize that (use the systemize module or whatever means but make the Google/Velvet app in /system/priv-app)
+  2. Systemize that (use the systemize module or whatever means but put Google/Velvet app in /system/priv-app)
   3. After reboot, update Google App from Play Store and issue solved
