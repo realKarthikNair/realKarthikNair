@@ -11,14 +11,14 @@ For instance, to launch calculater (I'm using Google Calculator for the guide) u
 
 1. Create a file eg calc.sh in /storage/emulated/0 ie the user-accessible part of your internal storage, with the following content
 
-      #!/system/bin/sh  
-      am start com.google.android.calculator/com.android.calculator2.Calculator  
+            #!/system/bin/sh
+            am start com.google.android.calculator/com.android.calculator2.Calculator
 
 2. Open Termux
 
-    su  
-    cd /storage/emulated/0  
-    sh calc.sh  
+            su
+            cd /storage/emulated/0
+            sh calc.sh
 
 3. The calculator should launch
 
