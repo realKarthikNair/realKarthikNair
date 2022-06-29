@@ -1,5 +1,5 @@
 # <img src="res/Hi.gif" width="30px" height="30px"> Hey There, I’m Karthik Nair !
-<font face="helvetica"><h3 align="left">Sleeping!</h3></font>
+<font face="helvetica"><h3 align="left">Learning!!!</h3></font>
 
 <table>
   <tr>
