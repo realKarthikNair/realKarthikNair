@@ -1,3 +1,4 @@
+Credit : https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html
 
 
     sudo touch /etc/systemd/system/battery-charge-threshold.service
