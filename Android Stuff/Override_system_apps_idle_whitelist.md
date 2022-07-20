@@ -5,5 +5,6 @@ Look for the line "Whitelist system apps". Packages under it can override doze m
 ```adb shell dumpsys deviceidle sys-whitelist -<package>``` would remove an app from whitelist  
 e.g., ```adb shell dumpsys deviceidle sys-whitelist -com.facebook.services```(hehe)  
 
-To undo, use the 'plus' sign instead of the minus ie ``````adb shell dumpsys deviceidle sys-whitelist +<package>```  
+To undo, use the 'plus' sign instead of the minus ie ```adb shell dumpsys deviceidle sys-whitelist +<package>```  
+
 e.g., ```adb shell dumpsys deviceidle sys-whitelist +com.facebook.services```
