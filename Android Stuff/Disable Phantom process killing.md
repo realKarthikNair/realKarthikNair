@@ -12,6 +12,8 @@ Re-enable device config sync
 Check device config sync mode stored in settings
 
     adb shell "/system/bin/settings get global device_config_sync_disabled"
+    
+0 => null, 1=> persistent, 2=> until_reboot    
 
 return max_phantom_processes
 
