@@ -12,3 +12,19 @@ Re-enable device config sync
 Check device config sync mode stored in settings
 
     adb shell "/system/bin/settings get global device_config_sync_disabled"
+
+return max_phantom_processes
+
+    adb shell device_config get activity_manager max_phantom_processes 
+    
+or 
+    
+    adb shell "/system/bin/dumpsys activity settings | grep max_phantom_processes"
+     
+More stuff
+
+    adb shell "/system/bin/dumpsys activity settings
+    
+Even more stuff 
+
+https://gist.github.com/agnostic-apollo/dc7e47991c512755ff26bd2d31e72ca8
