@@ -5,7 +5,7 @@
 
 stock value: 32  
 
-Re-enable device config sync
+Re-enable device config sync (do incase your device is unstable or every time before an OTA update. You can re-run the command to disable it after OTA update)
 
     adb shell "/system/bin/device_config set_sync_disabled_for_tests none"
 
