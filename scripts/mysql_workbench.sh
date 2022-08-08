@@ -1,1 +1,1 @@
-snap install mysql-workbench-community
+# snap install mysql-workbench-community
