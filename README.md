@@ -1,5 +1,13 @@
 # <img src="res/Hi.gif" width="30px" height="30px"> Hey There, I’m Karthik Nair !
-<font face="helvetica"><h3 align="left">I do relate to those PHP memes now!</h3></font>
+
+[Mediocre Poems written by me](https://github.com/realKarthikNair/realKarthikNair/tree/main/My_poems) | [Some stuff I like](https://github.com/realKarthikNair/realKarthikNair/tree/main/Stuff%20I%20Like) |  
+[Android Stuff/notes I make](https://github.com/realKarthikNair/realKarthikNair/tree/main/Android%20Stuff) | [Some common issues/fixes with Linux distros I used](https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_fixes) |  
+[Some not-so-self-explanatory Linux-related notes I make](https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_notes) | [some scripts to speed up stuff](https://github.com/realKarthikNair/realKarthikNair/tree/main/scripts) |  
+[Some webpages from my Bookmarks](https://github.com/realKarthikNair/realKarthikNair/blob/main/sites.md) | [My Website that is legit copy-paste code from 100 places](https://realkarthiknair.github.io/) |
+
+
+
+<font face="helvetica"><h3 align="left">"I do relate to those PHP memes now!"</h3></font>
 
 <table>
   <tr>
