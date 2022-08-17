@@ -1,9 +1,19 @@
 # <img src="res/Hi.gif" width="30px" height="30px"> Hey There, I’m Karthik Nair !
 
-[Mediocre Poems written by me](https://github.com/realKarthikNair/realKarthikNair/tree/main/My_poems) | [Some stuff I like](https://github.com/realKarthikNair/realKarthikNair/tree/main/Stuff%20I%20Like) |  
-[Android Stuff/notes I make](https://github.com/realKarthikNair/realKarthikNair/tree/main/Android%20Stuff) | [Some common issues/fixes with Linux distros I used](https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_fixes) |  
-[Some not-so-self-explanatory Linux-related notes I make](https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_notes) | [some scripts to speed up stuff](https://github.com/realKarthikNair/realKarthikNair/tree/main/scripts) |  
-[Some webpages from my Bookmarks](https://github.com/realKarthikNair/realKarthikNair/blob/main/sites.md) | [My Website that is legit copy-paste code from 100 places](https://realkarthiknair.github.io/) |
+<details>
+<summary>Some (maybe) useful links</summary>
+<ol>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/My_poems">Mediocre Poems written by me</a>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Stuff%20I%20Like">Some stuff I like</a>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Android%20Stuff">Android Stuff/notes I make</a>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_fixes">Some common issues/fixes with Linux distros I used</a>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_notes">Some not-so-self-explanatory Linux-related notes I make</a>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/scripts">some of my installation scripts to speed up stuff in linux</a>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/blob/main/sites.md">Some webpages from my Bookmarks</a>
+<li><a href="https://realkarthiknair.github.io/">My Website</a>
+</li>
+</ol>
+</details>
 
 
 
