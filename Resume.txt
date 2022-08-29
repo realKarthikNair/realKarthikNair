@@ -2,7 +2,7 @@ _______________
 <KARTHIK NAIR>
 _______________
 
-A second semester BCA student who also happens to be a Linux enthusiast that loves python scripting and digging Android internals. 
+A second semester BCA student who also happens to be an Open Source enthusiast
 
 DOB         : 26.09.2002 
 
@@ -55,6 +55,11 @@ Education
 - BCA (Bachelor of Computer Applications) at Vivekananda Institute of professional studies, New Delhi (2021-present)
 
 - PCM+CS at Kerala School, New Delhi (2014-2021) with an 8.2 CGPA
+
+Objective
+----------
+
+Open to any opportunities that is on par with my skillset and experiences. I look forward to work with a community that works shoulder to shoulder in producing high-quality code, prioritizing resource efficiency as one of the key aspects. I am more than happy to devote the maximum of my abilities and time for the same.
 
 
 Why Me (Strengths)
