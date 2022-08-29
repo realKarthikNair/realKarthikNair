@@ -6,7 +6,11 @@ A second semester BCA student who also happens to be a Linux enthusiast that lov
 
 DOB         : 26.09.2002 
 
-Nationality : Indian
+Address     : Ghaziabad, Uttar Pradesh, India
+
+Phone       : +91 9643666789 , +1 902-590-3771
+
+Email       : realkarthiknair@gmail.com, realkarthiknair@protonmail.com
 
 
 Work Experience 
