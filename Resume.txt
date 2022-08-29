@@ -74,9 +74,9 @@ Special Skills
 
 - Googling
 
-- Can handle 36 hrs+ uptime 
+- Documentation
 
-- Writing: Mostly Blogs, Poetry or Essays 
+- Can handle 36 hrs+ uptime 
 
 
 Hobbies
@@ -85,6 +85,8 @@ Hobbies
 - Photography
 
 - Answering questions at Stack Exchange communities
+
+- Writing: Mostly Blogs, Poetry or Essays 
 
 - Seasonal Bookworm
 
