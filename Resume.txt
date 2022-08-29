@@ -4,15 +4,15 @@ _______________
 
 A second semester BCA student who also happens to be a Linux enthusiast that loves python scripting and digging Android internals. 
 
-DOB:              26.09.2002 
+DOB         : 26.09.2002 
 
-Nationality :     Indian
+Nationality : Indian
 
 
 Work Experience 
 -----------------
 
-2021 : [CVE-2022-20317] Provided Proof of Concept and possible fixes to patch an S2 level security vulnerability in Android to Google
+2021           : [CVE-2022-20317] Provided Proof of Concept and possible fixes to patch an S2 level security vulnerability in Android to Google
 
 2019 - Present : Working on Open-Source Projects
 
