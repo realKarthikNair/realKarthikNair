@@ -16,7 +16,6 @@
 </details>
 
 
-
 <font face="helvetica"><h3 align="left">"I do relate to those PHP memes now!"</h3></font>
 
 <table>
