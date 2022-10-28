@@ -61,7 +61,6 @@
 
 
 
-
 <p>&nbsp; 
    
    <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=realkarthiknair&show_icons=true&hide_border=true&theme=tokyonight" alt="realkarthiknair" />
