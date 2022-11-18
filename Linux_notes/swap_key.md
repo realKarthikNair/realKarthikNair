@@ -1,7 +1,7 @@
-So I broke the down arrow key on my laptop and keyboard replacement was pretty costly.
+I broke the *down arrow* key on my laptop and keyboard replacement was pretty costly.
 SO I remapped (or swapped, anything you'd like to call it) it with Right Ctrl key as a dirty fix.
 
-So `/usr/share/X11/xkb/keycodes/evdev` is the file you need to mess up with
+`/usr/share/X11/xkb/keycodes/evdev` is the file you need to mess up with
 
 For instance, what I did was commenting the line that had the id and keycode for Right Ctrl key 
 
