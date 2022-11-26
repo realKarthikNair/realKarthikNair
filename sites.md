@@ -1,6 +1,6 @@
 # Some Websites/Webpages/OpenDirectories coming from my bookmarks!
 
-## Stuff here are NOT organised based on subjects/domains, neither are they sorted based on any criteria, nor do I plan to do either cuz even listing them here is too much for my lazy *another word for donkey*
+> Stuff here are NOT organised based on subjects/domains, neither are they sorted based on any criteria, nor do I plan to do either
 
 ### 1. GTFOBins
 
