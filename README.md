@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on some GitHub repos and spending time expanding my skillset
 
--  Serving [ACEVIPS](https://vipsace.org/) since 2022
+- ~Serving [ACEVIPS](https://vipsace.org/) since 2022~
 
 - 🌱 learning C++
 
