@@ -26,7 +26,7 @@
 
 - 👨‍💻 Third Semester BCA student at [VIPS](https://www.vips.edu), Delhi
 
-- 💻 Python, shell scripting, Android Modder
+- 💻 Python, shell scripting, Android Modding
 
 - 🔭 I’m currently working on some GitHub repos and spending time expanding my skillset
 
