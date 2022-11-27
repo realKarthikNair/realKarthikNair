@@ -26,13 +26,13 @@
 
 - 👨‍💻 Third Semester BCA student at [VIPS](https://www.vips.edu), Delhi
 
-- 💻 Python, shell scripting, C
+- 💻 Python, shell scripting, Android Modder
 
 - 🔭 I’m currently working on some GitHub repos and spending time expanding my skillset
 
 -  Serving [ACEVIPS](https://vipsace.org/) since 2022
 
-- 🌱 learning [**C Language**](https://github.com/realKarthikNair/Learning-C-Lang), PHP and JS
+- 🌱 learning C++
 
 - 📫 **realkarthiknair@gmail.com**
 
