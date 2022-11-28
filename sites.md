@@ -35,3 +35,7 @@ https://www.reddit.com/r/opendirectories/
 ### 7. 
 
 https://webkay.robinlinus.com/
+
+### 8. 
+
+https://xkcd.com/
