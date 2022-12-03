@@ -40,7 +40,7 @@ After that,
 
 - Set this flag to enable
 
-      chrome://flags/#enable-webrtc-pipewire-capturer]
+      chrome://flags/#enable-webrtc-pipewire-capturer
       
 Relaunch chrome
 
