@@ -32,7 +32,7 @@
 
 - ~Serving [ACEVIPS](https://vipsace.org/) since 2022~
 
-- 🌱 learning C++
+- 🌱 learning C++, cybersecurity 
 
 - 📫 **realkarthiknair@gmail.com**
 
