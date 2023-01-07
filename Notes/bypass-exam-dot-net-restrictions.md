@@ -1,8 +1,8 @@
 THIS GUIDE IS FOR EDUCATIONAL PURPOSES ONLY! CHEATING IN AN EXAM QUALIFIES AS UFM, especially if caught!
 
-Bypass active window detection, full-screen quit detection and copy-paste detection of exam.net
+# Bypass **active window detection**, full-screen quit detection and copy-paste detection of exam.net
 
-# For Linux (assuming Gnome and Chrome is being used)
+### For Linux (assuming Gnome and Chrome is being used)
 
 - **Bypass copy-paste restriction**: Install [this](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika?hl=en) extension. 
  Open exam.net, click on the extensions icon, select the extension we just installed and toggle it as shown
