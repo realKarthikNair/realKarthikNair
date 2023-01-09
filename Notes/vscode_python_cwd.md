@@ -12,6 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/78267371/209951932-c837557a-dd39-4a1f-a95c-0ac662eef0be.png)
 
+3. Make sure to ```cd``` the integrated terminal to the same directory as your python file!
+
 
 Enjoy!
 
