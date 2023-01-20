@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <string name="max_2160p_video_duration_seconds">0</string>
+    <string name="ses_autofps_id_key_0"></string>
     <string name="gawb_user_rg_m_key">0.478985</string>
     <string name="pref_has_checked_lasagna_mode">0</string>
     <string name="pref_camera_coach_key">1</string>
@@ -14,11 +15,16 @@
     <string name="pt_ft_key">1</string>
     <string name="gawb_user_bg_a_key_2">0.686416</string>
     <string name="gawb_user_rg_b_key">0.442842</string>
+    <string name="01FCF618_a_3f80_0000_pthcr_key_0">1.0</string>
+    <string name="01FCF618_a_3f80_0000_pthcr_key_1">1.0</string>
+    <string name="01FCF618_a_3f80_0000_pthcr_key_2">1.0</string>
     <string name="pref_ext_mic_key">0</string>
     <string name="gawb_user_bg_g_key_0">0.556984</string>
     <string name="gawb_user_bg_g_key_1">0.556984</string>
     <string name="gawb_user_bg_g_key_2">0.556984</string>
     <boolean name="camera.enable_slowmo" value="true" />
+    <string name="ses_autofps_id_key_2"></string>
+    <string name="ses_autofps_id_key_1"></string>
     <string name="gawb_user_bg_l_key_2">0.340845</string>
     <string name="gawb_user_bg_l_key_1">0.340845</string>
     <string name="gawb_user_bg_l_key_0">0.340845</string>
@@ -26,11 +32,11 @@
     <int name="tooltip_impression_count_for_long_press" value="1" />
     <string name="gawb_user_bg_m_key">0.686416</string>
     <string name="pref_has_checked_cheetah_mode">1</string>
-    <string name="jpg_opt_q_key_2"></string>
-    <string name="jpg_opt_q_key_1"></string>
-    <string name="jpg_opt_q_key_0"></string>
+    <string name="jpg_opt_q_key_2">100</string>
+    <string name="jpg_opt_q_key_1">100</string>
+    <string name="jpg_opt_q_key_0">100</string>
     <string name="gawb_user_rg_n_key_0">0.478985</string>
-    <string name="pref_camera_picturesize_back_key"></string>
+    <string name="pref_camera_picturesize_back_key">4000x2256</string>
     <string name="gawb_user_rg_f_key">1.11318</string>
     <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_mode_vesper_level">0</string>
@@ -41,31 +47,40 @@
     <string name="gawb_user_rg_h_key_0">0.645941</string>
     <boolean name="camera.enable_hw_buff_uflag" value="false" />
     <string name="pref_camera_hdrplus_option_available_key">1</string>
+    <string name="pref_has_checked_social_app_toggle">1</string>
     <string name="gawb_user_bg_f_key_1">0.269751</string>
     <string name="gawb_user_bg_f_key_2">0.269751</string>
     <string name="gawb_user_bg_m_key_2">0.686416</string>
     <string name="pref_camera_video_back_flashmode_thermally_disabled_key">0</string>
     <string name="gawb_user_bg_f_key_0">0.269751</string>
+    <string name="01FCF62C_a_3f80_0000_pthcr_key_1">1.0</string>
+    <string name="01FCF62C_a_3f80_0000_pthcr_key_2">1.0</string>
     <string name="gawb_user_bg_b_key">0.769319</string>
+    <string name="01FCF730_a_3ff0_000000000000_pthcr_key_0">1.0</string>
+    <string name="01FCF730_a_3ff0_000000000000_pthcr_key_1">1.0</string>
     <boolean name="camera.60fps" value="false" />
+    <string name="01FCF62C_a_3f80_0000_pthcr_key_0">1.0</string>
     <string name="gawb_user_rg_o_key_1">0.645941</string>
     <string name="gawb_user_rg_o_key_0">0.645941</string>
-    <string name="dev_setting_filter_key">60</string>
+    <string name="01FCF730_a_3ff0_000000000000_pthcr_key_2">1.0</string>
+    <string name="dev_setting_filter_key"></string>
     <string name="gawb_user_rg_b_key_0">0.442842</string>
     <string name="gawb_user_rg_o_key_2">0.645941</string>
     <string name="gawb_user_rg_b_key_1">0.442842</string>
     <string name="pref_double_tap_launch_edu_count">2</string>
     <string name="gawb_user_rg_b_key_2">0.442842</string>
     <string name="ses_tl_id_key_0"></string>
-    <string name="device_key">sunfish</string>
+    <string name="device_key">blueline</string>
     <string name="ses_tl_id_key_2"></string>
     <string name="pref_camera_resolution">max</string>
     <string name="ses_tl_id_key_1"></string>
-    <string name="on_pthcr_key">0</string>
+    <string name="on_pthcr_key">1</string>
     <string name="key_aspect_ratio">0</string>
+    <string name="pref_camera_video_back_flashmode_key">off</string>
     <string name="gawb_user_rg_p_key">0.645941</string>
     <string name="gawb_user_rg_i_key_2">0.538163</string>
     <string name="ses_tl_id_key_4"></string>
+    <boolean name="camcorder.4k_8k_60fps" value="false" />
     <string name="ses_tl_id_key_3"></string>
     <string name="gawb_user_rg_i_key_0">0.538163</string>
     <string name="pref_camera_selfie_mirror_key">1</string>
@@ -89,18 +104,27 @@
     <string name="gawb_user_bg_k_key_0">0.250332</string>
     <string name="lens_bl_key">3,4</string>
     <string name="gawb_user_bg_k_key_2">0.250332</string>
-    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1673763218340" />
+    <string name="ses_120fps_id_key_2"></string>
+    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1674132503350" />
+    <string name="ses_120fps_id_key_1"></string>
+    <string name="01FCF604_a_3f80_0000_pthcr_key_1">1.0</string>
+    <string name="01FCF604_a_3f80_0000_pthcr_key_0">1.0</string>
     <string name="gawb_user_rg_l_key">0.867481</string>
     <long name="tooltip_latest_impression_timestamp_for_auto_timelapse_tooltip" value="1672951490997" />
-    <string name="pref_video_stab_button_untouched_count">9</string>
-    <int name="tooltip_impression_trigger_count_for_long_exposure_smarts_chip" value="0" />
+    <string name="pref_video_stab_button_untouched_count">5</string>
+    <int name="tooltip_impression_trigger_count_for_long_exposure_smarts_chip" value="2" />
+    <string name="ses_120fps_id_key_0"></string>
     <string name="pref_has_set_social_share_apps">1</string>
     <string name="pref_social_app_com_google_android_apps_messaging">0</string>
     <string name="gawb_user_bg_g_key">0.556984</string>
     <string name="pref_upgrade_version">24</string>
     <long name="tooltip_latest_impression_timestamp_for_micro_tutorial_dismiss" value="1671290214725" />
+    <string name="wl_key_2">0</string>
     <boolean name="autotimer_tutorial_shown" value="true" />
+    <string name="01FCF604_a_3f80_0000_pthcr_key_2">1.0</string>
+    <string name="wl_key_0">0</string>
     <string name="perf_has_shown_options_bar">1</string>
+    <string name="wl_key_1">0</string>
     <string name="gawb_user_rg_g_key_2">0.558293</string>
     <string name="gawb_user_rg_g_key_1">0.558293</string>
     <string name="gawb_user_rg_g_key_0">0.558293</string>
@@ -110,9 +134,12 @@
     <string name="pref_video_fps_4k_key">FPS_30</string>
     <string name="pref_mode_vesperad_option">0</string>
     <string name="hwlevel_key">4</string>
+    <string name="01FCF73C_a_3ff0_000000000000_pthcr_key_0">1.0</string>
+    <string name="01FCF73C_a_3ff0_000000000000_pthcr_key_2">1.0</string>
+    <string name="01FCF73C_a_3ff0_000000000000_pthcr_key_1">1.0</string>
     <string name="ses_30fps_id_key_3"></string>
     <string name="ses_30fps_id_key_4"></string>
-    <string name="preview_key_0">0</string>
+    <string name="preview_key_0">256</string>
     <string name="preview_key_1">0</string>
     <boolean name="finish_video_capture" value="true" />
     <string name="preview_key_2">0</string>
@@ -135,19 +162,27 @@
     <string name="gawb_user_rg_h_key">0.645941</string>
     <string name="gawb_user_bg_l_key">0.340845</string>
     <string name="gawb_user_bg_i_key_2">0.59211</string>
+    <string name="01FD0608_null_pthcr_key_0"></string>
+    <string name="01FD0608_null_pthcr_key_1"></string>
     <string name="pref_hdr_tooltip_countdown">0</string>
     <string name="gawb_user_bg_i_key_1">0.59211</string>
+    <string name="0293775C_a_3f80_0000_pthcr_key_0">1.0</string>
     <string name="pref_has_checked_measure_mode">0</string>
     <string name="gawb_user_bg_i_key_0">0.59211</string>
+    <string name="0293775C_a_3f80_0000_pthcr_key_1">1.0</string>
+    <string name="0293775C_a_3f80_0000_pthcr_key_2">1.0</string>
     <string name="gawb_user_bg_c_key">0.340845</string>
     <string name="lUpTi">1666628773000</string>
+    <boolean name="camera.enable_saliency_focus" value="true" />
     <string name="gawb_user_bg_j_key_0">0.686416</string>
     <string name="gawb_user_bg_h_key">0.446765</string>
+    <string name="01FD0608_null_pthcr_key_2"></string>
     <boolean name="camcorder.1080p60_thr" value="false" />
     <string name="gawb_user_bg_j_key_2">0.686416</string>
     <string name="gawb_user_bg_j_key_1">0.686416</string>
     <string name="pref_camera_kepler_enabled_key">1</string>
     <string name="gawb_user_rg_f_key_0">1.11318</string>
+    <string name="auto_ns_key">0</string>
     <string name="pref_video_aspect_ratio">SIXTEEN_BY_NINE</string>
     <string name="merge_key_0">0</string>
     <string name="gawb_user_rg_f_key_2">1.11318</string>
@@ -165,7 +200,7 @@
     <boolean name="camera.mts_4k" value="true" />
     <string name="pref_has_shown_longp_education">0</string>
     <string name="gawb_user_bg_o_key">0.446765</string>
-    <string name="pref_camera_picturesize_front_key"></string>
+    <string name="pref_camera_picturesize_front_key">3264x1836</string>
     <string name="gawb_user_rg_d_key">0.645941</string>
     <string name="pref_camera_grid_lines_mode">0</string>
     <string name="gawb_user_bg_o_key_2">0.446765</string>
@@ -178,7 +213,7 @@
     <string name="gawb_user_rg_k_key">0.967126</string>
     <string name="gawb_user_bg_d_key_0">0.446765</string>
     <string name="device_hdrplus_key_4">blueline</string>
-    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="36" />
+    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="42" />
     <string name="device_hdrplus_key_3">blueline</string>
     <string name="gawb_user_rg_o_key">0.645941</string>
     <string name="device_hdrplus_key_2">blueline</string>
@@ -186,8 +221,8 @@
     <string name="device_hdrplus_key_0">blueline</string>
     <string name="gawb_user_bg_d_key">0.446765</string>
     <string name="pref_camera_beholder_example_percent_key">-1</string>
-    <int name="tooltip_impression_count_for_try_washington_tooltip" value="1" />
-    <string name="pref_camera_enable_iris">1</string>
+    <int name="tooltip_impression_count_for_try_washington_tooltip" value="2" />
+    <string name="pref_camera_enable_iris">0</string>
     <string name="pref_micro_mode">0</string>
     <string name="pref_has_checked_ornament_mode">0</string>
     <string name="pref_release_dialog_last_shown_version"></string>
@@ -207,6 +242,10 @@
     <string name="pref_hotshot">0</string>
     <string name="pref_link_first_time_chip_click_ms">0</string>
     <int name="tooltip_impression_count_for_micro_tutorial_dismiss" value="1" />
+    <boolean name="camera.manual_focus_infinity" value="false" />
+    <string name="01FCF5F0_a_3f80_0000_pthcr_key_0">1.0</string>
+    <string name="01FCF5F0_a_3f80_0000_pthcr_key_1">1.0</string>
+    <string name="01FCF5F0_a_3f80_0000_pthcr_key_2">1.0</string>
     <string name="active_cam_id_back_key">0</string>
     <long name="tooltip_latest_impression_timestamp_for_cuttlefish_steady_advice" value="1671631282108" />
     <string name="gawb_user_rg_g_key">0.558293</string>
@@ -215,10 +254,13 @@
     <string name="google_id_key_2"></string>
     <string name="pref_camera_hdr_plus_key">auto</string>
     <string name="raw_key_0">0</string>
+    <string name="ses_hdr10_id_key_2"></string>
     <string name="raw_key_1">0</string>
+    <string name="ses_hdr10_id_key_1"></string>
     <string name="pref_exposure_control_key">1</string>
     <string name="raw_key_2">0</string>
     <int name="tooltip_impression_count_for_auto_timelapse_tooltip" value="1" />
+    <string name="ses_hdr10_id_key_0"></string>
     <string name="raw_key_3">0</string>
     <boolean name="pref_key_reboot_completed" value="true" />
     <string name="gawb_user_rg_p_key_2">0.645941</string>
@@ -242,6 +284,7 @@
     <string name="ses_60fps_id_key_1"></string>
     <string name="panorama_upgrade_version">1</string>
     <string name="ses_60fps_id_key_0"></string>
+    <boolean name="google_llv_30_fps_non_4k" value="true" />
     <string name="pref_camera_cd_indicator_enabled_key">1</string>
     <string name="bl_key_1">0</string>
     <string name="bl_key_2">0</string>
@@ -249,10 +292,13 @@
     <string name="bl_key_4">0</string>
     <string name="pref_storage_saver_auto_disable">0</string>
     <string name="bl_key_0">0</string>
+    <string name="ses_240fps_id_key_2"></string>
     <string name="pref_video_fps_p2018_key">FPS_30</string>
     <string name="gawb_user_bg_e_key_0">0.397625</string>
     <string name="gawb_user_bg_e_key_1">0.397625</string>
     <string name="pref_camera_raw_output_key">0</string>
+    <string name="ses_240fps_id_key_0"></string>
+    <string name="ses_240fps_id_key_1"></string>
     <string name="pref_switch_camera_command_string">47</string>
     <string name="pref_camera_sounds_key">0</string>
     <string name="gawb_user_bg_n_key_1">0.686416</string>
@@ -281,7 +327,7 @@
     <string name="gawb_user_bg_b_key_0">0.769319</string>
     <string name="key_social_share_opt_in">1</string>
     <string name="perf_has_run_second_education">1</string>
-    <string name="pref_social_app_com_google_android_youtube">1</string>
+    <string name="pref_social_app_com_google_android_youtube">0</string>
     <string name="gawb_user_bg_b_key_2">0.769319</string>
     <string name="gawb_user_bg_b_key_1">0.769319</string>
     <string name="gawb_user_rg_l_key_2">0.867481</string>
@@ -292,14 +338,14 @@
     <string name="gawb_user_rg_a_key">0.478985</string>
     <string name="pref_has_checked_lens_mode">0</string>
     <string name="gawb_user_rg_j_key">0.478985</string>
-    <string name="perf_has_run_education">1673987572053</string>
+    <string name="perf_has_run_education">1674459307487</string>
     <string name="gawb_user_rg_m_key_2">0.478985</string>
-    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1673748629007" />
+    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1673866103570" />
     <string name="gawb_user_bg_c_key_2">0.340845</string>
-    <string name="pref_camera_dirty_lens_history_key0">-5.060685|-3.7630517|-2.412871|1.0613955|-3.9551494|-3.8637638|-1.8853443|-1.5043324|-5.059459|-3.154924|-5.528842|-5.957635|-3.2922914|-1.8569497|-2.517211|-1.5923507|-3.847381|-1.0252187|-4.1120224|-2.6934848|-3.8782837|-2.674631|-2.2599537|-2.0936525|-4.765259|-2.603816|-1.7951114|-3.0826015|-1.3252946|-0.5725924|-2.7523935|-0.01590503|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-2.2164147|0.539329|1.4185455|-3.6509418|-1.6866385|0.10194195|-1.6043103|-1.4473542|-0.91110414|0.40729564|-3.3287535|1.3372396|-0.45787588|-2.3192863|-3.5569968|-1.0905626|-2.149851|-1.7899969|-2.2020922|-4.6212745|-3.6284792|-1.8299211|-0.7849131|-3.9693222|-0.48788083|-2.9988372|-0.4294303|-1.4243082|-1.3983759|1.683839|-1.8639883|-2.4799738|</string>
     <string name="gawb_user_bg_c_key_1">0.340845</string>
     <string name="gawb_user_rg_m_key_1">0.478985</string>
-    <string name="pref_camera_dirty_lens_history_key1">-17.0|-1.5439303|2.2489798|2.1058908|-2.273778|-4.878448|-3.3350885|-1.962321|-0.46437865|3.3353662|-2.0482073|0.45429844|-2.877006|0.70337987|-3.8337545|-4.8061385|-0.17810175|-1.6921781|-2.5032675|-2.9005816|-2.9988253|-1.3528349|1.7800059|-2.9339674|0.003027141|-2.7487173|3.447598|0.89839816|-2.5059407|</string>
+    <string name="pref_camera_dirty_lens_history_key1">-4.878448|-3.3350885|-1.962321|-0.46437865|3.3353662|-2.0482073|0.45429844|-2.877006|0.70337987|-3.8337545|-4.8061385|-0.17810175|-1.6921781|-2.5032675|-2.9005816|-2.9988253|-1.3528349|1.7800059|-2.9339674|0.003027141|-2.7487173|3.447598|0.89839816|-2.5059407|-2.4799082|3.1887126|-2.112491|-0.74292946|-3.2129757|-3.0208924|2.6285524|-5.1141195|</string>
     <string name="gawb_user_bg_c_key_0">0.340845</string>
     <string name="gawb_user_rg_m_key_0">0.478985</string>
     <string name="shasta_key_3">0</string>
