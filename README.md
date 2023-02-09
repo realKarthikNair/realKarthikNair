@@ -61,8 +61,8 @@
 
 <p>&nbsp; 
    
-   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=realkarthiknair&show_icons=true&hide_border=true&theme=tokyonight" alt="realkarthiknair" />
-   <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=realkarthiknair&hide_border=true&theme=tokyonight" alt="realkarthiknair" />
+   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=realkarthiknair&show_icons=true&hide_border=false&theme=tokyonight" alt="realkarthiknair" />
+   <img width="450"  src="https://streak-stats.demolab.com?user=realkarthiknair&theme=tokyonight" alt="realkarthiknair" />
 
 </p>
 
