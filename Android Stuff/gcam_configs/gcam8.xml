@@ -1,3 +1,4 @@
+
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <string name="max_2160p_video_duration_seconds">0</string>
@@ -11,8 +12,8 @@
     <string name="key_promote_launch_wear">0</string>
     <string name="pref_last_installed_version_code">65822832</string>
     <string name="gawb_user_bg_f_key">0.269751</string>
-    <string name="pv_ft_key">1</string>
-    <string name="pt_ft_key">1</string>
+    <string name="pv_ft_key">0</string>
+    <string name="pt_ft_key">0</string>
     <string name="gawb_user_bg_a_key_2">0.686416</string>
     <string name="gawb_user_rg_b_key">0.442842</string>
     <string name="01FCF618_a_3f80_0000_pthcr_key_0">1.0</string>
@@ -338,7 +339,7 @@
     <string name="gawb_user_rg_a_key">0.478985</string>
     <string name="pref_has_checked_lens_mode">0</string>
     <string name="gawb_user_rg_j_key">0.478985</string>
-    <string name="perf_has_run_education">1674459307487</string>
+    <string name="perf_has_run_education">1676363023950</string>
     <string name="gawb_user_rg_m_key_2">0.478985</string>
     <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1673866103570" />
     <string name="gawb_user_bg_c_key_2">0.340845</string>
