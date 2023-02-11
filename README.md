@@ -8,7 +8,7 @@
 <li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Android%20Stuff">Android Stuff/notes I make</a>
 <li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_fixes">Some common issues/fixes with Linux distros I used</a>
 <li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Linux_notes">Some not-so-self-explanatory Linux-related notes I make</a>
-<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/scripts">Some scripts to speed up installing stuff in linux</a>
+<li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/scripts">Some scripts, most of them are software installations on Linux</a>
 <li><a href="https://github.com/realKarthikNair/realKarthikNair/blob/main/sites.md">Some webpages from my Bookmarks</a>
 <li><a href="https://realkarthiknair.github.io/">My Website</a>
 </li>
