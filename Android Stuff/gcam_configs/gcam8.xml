@@ -1,4 +1,3 @@
-
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
     <string name="max_2160p_video_duration_seconds">0</string>
@@ -71,7 +70,7 @@
     <string name="pref_double_tap_launch_edu_count">2</string>
     <string name="gawb_user_rg_b_key_2">0.442842</string>
     <string name="ses_tl_id_key_0"></string>
-    <string name="device_key">blueline</string>
+    <string name="device_key">sunfish</string>
     <string name="ses_tl_id_key_2"></string>
     <string name="pref_camera_resolution">max</string>
     <string name="ses_tl_id_key_1"></string>
@@ -106,13 +105,13 @@
     <string name="lens_bl_key">3,4</string>
     <string name="gawb_user_bg_k_key_2">0.250332</string>
     <string name="ses_120fps_id_key_2"></string>
-    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1674132503350" />
+    <long name="tooltip_latest_impression_timestamp_for_pref_ext_mic_bluetooth_chip_display_count" value="1676451692488" />
     <string name="ses_120fps_id_key_1"></string>
     <string name="01FCF604_a_3f80_0000_pthcr_key_1">1.0</string>
     <string name="01FCF604_a_3f80_0000_pthcr_key_0">1.0</string>
     <string name="gawb_user_rg_l_key">0.867481</string>
     <long name="tooltip_latest_impression_timestamp_for_auto_timelapse_tooltip" value="1672951490997" />
-    <string name="pref_video_stab_button_untouched_count">5</string>
+    <string name="pref_video_stab_button_untouched_count">0</string>
     <int name="tooltip_impression_trigger_count_for_long_exposure_smarts_chip" value="2" />
     <string name="ses_120fps_id_key_0"></string>
     <string name="pref_has_set_social_share_apps">1</string>
@@ -214,7 +213,7 @@
     <string name="gawb_user_rg_k_key">0.967126</string>
     <string name="gawb_user_bg_d_key_0">0.446765</string>
     <string name="device_hdrplus_key_4">blueline</string>
-    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="42" />
+    <int name="tooltip_impression_count_for_pref_ext_mic_bluetooth_chip_display_count" value="48" />
     <string name="device_hdrplus_key_3">blueline</string>
     <string name="gawb_user_rg_o_key">0.645941</string>
     <string name="device_hdrplus_key_2">blueline</string>
@@ -339,14 +338,14 @@
     <string name="gawb_user_rg_a_key">0.478985</string>
     <string name="pref_has_checked_lens_mode">0</string>
     <string name="gawb_user_rg_j_key">0.478985</string>
-    <string name="perf_has_run_education">1676363023950</string>
+    <string name="perf_has_run_education">1676795079257</string>
     <string name="gawb_user_rg_m_key_2">0.478985</string>
     <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1673866103570" />
     <string name="gawb_user_bg_c_key_2">0.340845</string>
-    <string name="pref_camera_dirty_lens_history_key0">-2.2164147|0.539329|1.4185455|-3.6509418|-1.6866385|0.10194195|-1.6043103|-1.4473542|-0.91110414|0.40729564|-3.3287535|1.3372396|-0.45787588|-2.3192863|-3.5569968|-1.0905626|-2.149851|-1.7899969|-2.2020922|-4.6212745|-3.6284792|-1.8299211|-0.7849131|-3.9693222|-0.48788083|-2.9988372|-0.4294303|-1.4243082|-1.3983759|1.683839|-1.8639883|-2.4799738|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-2.4799738|-0.64353216|0.104190476|-1.8695877|-4.3788624|-0.859746|-4.5111847|-4.0226808|1.0986897|0.22304124|-3.0378635|-0.7547515|-2.4169528|-4.8099766|-0.87195694|3.5111973|-1.8246198|-0.7715897|-1.9621335|-2.277953|-2.9057329|-2.40515|-0.85865015|-2.511466|-7.55411|-2.0239239|-0.7310658|-0.30720854|-2.6947322|-4.7382455|-2.6922|-4.2657094|</string>
     <string name="gawb_user_bg_c_key_1">0.340845</string>
     <string name="gawb_user_rg_m_key_1">0.478985</string>
-    <string name="pref_camera_dirty_lens_history_key1">-4.878448|-3.3350885|-1.962321|-0.46437865|3.3353662|-2.0482073|0.45429844|-2.877006|0.70337987|-3.8337545|-4.8061385|-0.17810175|-1.6921781|-2.5032675|-2.9005816|-2.9988253|-1.3528349|1.7800059|-2.9339674|0.003027141|-2.7487173|3.447598|0.89839816|-2.5059407|-2.4799082|3.1887126|-2.112491|-0.74292946|-3.2129757|-3.0208924|2.6285524|-5.1141195|</string>
+    <string name="pref_camera_dirty_lens_history_key1">0.70337987|-3.8337545|-4.8061385|-0.17810175|-1.6921781|-2.5032675|-2.9005816|-2.9988253|-1.3528349|1.7800059|-2.9339674|0.003027141|-2.7487173|3.447598|0.89839816|-2.5059407|-2.4799082|3.1887126|-2.112491|-0.74292946|-3.2129757|-3.0208924|2.6285524|-5.1141195|3.7859368|-2.5690904|-2.883729|-3.3856337|-0.82995284|-0.6689558|2.2025692|1.9874362|</string>
     <string name="gawb_user_bg_c_key_0">0.340845</string>
     <string name="gawb_user_rg_m_key_0">0.478985</string>
     <string name="shasta_key_3">0</string>
