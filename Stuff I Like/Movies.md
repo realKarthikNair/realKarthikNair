@@ -21,3 +21,5 @@ Movies I loved
     Nobody
     The Equalizer movie series 
     Shutter Island 
+    50 First Dates
+    Bridge to Terabithia 
