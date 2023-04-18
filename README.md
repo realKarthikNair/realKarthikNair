@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently ~working on some GitHub repos and spending time expanding my skillset~ busy with college syllabus 
 
-- 🌱 learning C++, cybersecurity 
+- 🌱 learning Java, cybersecurity 
 
 - 📫 **realkarthiknair@gmail.com**
 
