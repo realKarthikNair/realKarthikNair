@@ -24,7 +24,7 @@
 </table>
 
 
-- 👨‍💻 Third Semester BCA student at [VIPS](https://www.vips.edu), Delhi
+- 👨‍💻 Forth Semester BCA student at [VIPS](https://www.vips.edu), Delhi
 
 - 💻 Python, shell scripting, Android Modding
 
