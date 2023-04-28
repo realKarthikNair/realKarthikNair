@@ -1,6 +1,6 @@
 Latest one I use 
 ```
-/usr/bin/google-chrome-stable --desktop-startup-id=gnome-shell/Google Chrome/6644-2-cosmic_TIME1660264 --ozone-platform=wayland --restart --flag-switches-begin --javascript-harmony --enable-zero-copy --ignore-gpu-blocklist --ozone-platform-hint=auto --enable-smooth-scrolling --enable-features=CanvasOopRasterization,GlobalVaapiLock,OverscrollHistoryNavigation,ParallelDownloading,RawDraw,UIEnableSharedImageCacheForGpu,WebRTCPipeWireCapturer,enable-pixel-canvas-recording --flag-switches-end
+/usr/bin/google-chrome-stable --ozone-platform=wayland --restart --flag-switches-begin --javascript-harmony --enable-zero-copy --ignore-gpu-blocklist --ozone-platform-hint=auto --enable-smooth-scrolling --enable-features=CanvasOopRasterization,GlobalVaapiLock,OverscrollHistoryNavigation,ParallelDownloading,RawDraw,UIEnableSharedImageCacheForGpu,WebRTCPipeWireCapturer,enable-pixel-canvas-recording --flag-switches-end
 ```
 
 
