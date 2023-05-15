@@ -28,9 +28,9 @@
 
 - 💻 Python, shell scripting, Android Modding
 
-- 🔭 I’m currently ~working on some GitHub repos and spending time expanding my skillset~ busy with college syllabus 
+- 🔭 I’m currently working on my shortcomings 
 
-- 🌱 learning Java, cybersecurity 
+- 🌱 learning Java, Go, cybersecurity 
 
 - 📫 **realkarthiknair@gmail.com**
 
