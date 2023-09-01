@@ -1,6 +1,6 @@
 # A Worn-out Journal of Decisions
 
-*
+*17 April 2023*
 
     Driven by an illusion of choices, 
     decisions were made in binary; 
