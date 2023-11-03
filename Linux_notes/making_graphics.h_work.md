@@ -22,11 +22,11 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 
 and (obviously) **add** the graphics.h header file
 
-    ```c
-    #include <graphics.h>
-    ```
-    
-    2. Compile using gcc or g++ with path to libXbgi.a and `-lX11 -lm  -no-pie`
+```
+#include <graphics.h>     
+```
+
+   2. Compile using gcc or g++ with path to libXbgi.a and `-lX11 -lm  -no-pie`
   
    
     
