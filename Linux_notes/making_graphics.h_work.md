@@ -20,11 +20,11 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
     #include <curses.h>
     ```
 
-and (obviously) **add** the graphics.h header file
+    and (obviously) **add** the graphics.h header file
 
-```
-#include <graphics.h>     
-```
+    ```c
+    #include <graphics.h>     
+    ```
 
    2. Compile using gcc or g++ with path to libXbgi.a and `-lX11 -lm  -no-pie`
   
@@ -38,4 +38,4 @@ and (obviously) **add** the graphics.h header file
     g++ program0.cpp  /usr/lib64/libXbgi.a -lX11 -lm  -no-pie -o program0
     ```
     
-    (PIE needs to be disabled since the compiled packages of libXbgi wasn't compiled using the -fPIE flag. If you really need PIE, compile the library after adding -fPIE  to CFLAGS or CPPFLAGS)
+    (PIE needs to be disabled since the [pre-compiled packages of libXbgi](https://libxbgi.sourceforge.net/#download) wasn't compiled using the -fPIE flag. If you really need PIE, compile the library from [source](https://sourceforge.net/projects/libxbgi/files/xbgi-365.tar.gz) after adding -fPIE  to CFLAGS or CPPFLAGS)
