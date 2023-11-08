@@ -57,7 +57,7 @@ Download from [here](https://sdl-bgi.sourceforge.io/#:~:text=compiled%20with%20S
 
 2. Get ncurses library
 
-curses.h will give you almost all of the functionality provided by conio.h (just replace conio.h with curses.h in code)
+    curses.h will give you almost all of the functionality provided by conio.h (just replace conio.h with curses.h in code)
 
     ```bash
     sudo dnf install ncurses-devel ncurses-c++-libs
