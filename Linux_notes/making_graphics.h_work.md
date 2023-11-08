@@ -53,7 +53,7 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 
 1. Get SDL_BGI Library 
 
-Download from [here](https://sdl-bgi.sourceforge.io/#:~:text=compiled%20with%20SDL_bgi.-,Download,-The%20current%20release
+Download the rpm package from [here](https://sdl-bgi.sourceforge.io/#:~:text=compiled%20with%20SDL_bgi.-,Download,-The%20current%20release)
 
 2. Get ncurses library
 
