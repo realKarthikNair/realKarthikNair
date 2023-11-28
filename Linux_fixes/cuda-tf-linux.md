@@ -23,6 +23,7 @@
 
 https://github.com/tensorflow/tensorflow/issues/53341#issuecomment-1548140919
 conda install -c conda-forge cudatoolkit cudnn
+conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 
 
 
