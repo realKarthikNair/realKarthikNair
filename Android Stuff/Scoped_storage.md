@@ -1,0 +1,12 @@
+```bash
+adb shell
+sm list-disks
+// HERE YOU GET YOUR DISK ID, SOMETHING LIKE "disk:179,64" - REMEMBER THOSE NUMBERS
+sm set-force-adoptable true
+// IN NEXT LINE, SIMPLY PUT THOSE NUMBERS AFTER "disk:" AND ALSO AFTER WORD "mixed" TYPE PERCENTAGE OF SPACE LEFT AS EXTERNAL, SO IN MY CASE:
+sm partition disk:179,64 mixed 60
+// IT TAKES TIME. BE PATIENT. WITH THIS LINE I TRANSFORMED WHOLE EXTERNAL SD INTO 40% OF INTERNAL AND 60% OF EXTERNAL
+sm set-force-adoptable false
+```
+
+https://stackoverflow.com/a/40739006
