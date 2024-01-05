@@ -1,4 +1,4 @@
-Movies I loved
+Movies I liked
 
     In pursuit of happyness
     Matrix movie series
@@ -23,3 +23,16 @@ Movies I loved
     Shutter Island 
     50 First Dates
     Bridge to Terabithia 
+    Oblivion
+    Top Gun
+    Top Gun : Maverick
+    Get Out
+    Lucy 2014
+    Your name
+    50 First Dates
+    Coherence 
+    Bridge to Terabithia
+    Shutter Island
+    
+    
+
