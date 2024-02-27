@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on my shortcomings 
 
-- 🌱 learning Java, Go, cybersecurity 
+~- 🌱 learning Java, Go, cybersecurity~
 
 - 📫 **realkarthiknair@gmail.com**
 
