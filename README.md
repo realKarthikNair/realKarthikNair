@@ -28,7 +28,7 @@
 
 - 💻 Python, shell scripting, Android Modding
 
-- 🔭 I’m currently working on my shortcomings 
+- 🔭 I’m currently looking for jobs 
 
 ~- 🌱 learning Java, Go, cybersecurity~
 
