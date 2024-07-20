@@ -1,12 +1,3 @@
+A copy of my Liked Songs playlist on Spotify : Updated randomly.
 
-- Everything from Linkin Park
-
-Other than that: 
-
-    Explosions by Three Days Grace  
-    Astronaut by Simple Plan  
-    What I've done by Linkin Park  
-    Burn it to the Ground by Nickelback  
-    Fade to the Black by Metallica   
-    Too late by 'Dead by sunrise'  
-    I am Machine by Three Days Grace
+https://open.spotify.com/playlist/3Ria3BBjsXAw1wlImv4CMP?si=d6a7c6a45d1b413f
