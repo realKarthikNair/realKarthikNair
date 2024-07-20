@@ -12,6 +12,7 @@ The list is **sorted alphabetically** by title.
 
 "Personal Rating" doesn't have a one-fit-all criteria, but thoughts on the plot, acting, cinematography, VFX, soundtracks, length, and overall experience are taken into account. It is not biased towards any particular genre or actors. It is a personal rating and might not align with the general ratings on IMDb or Rotten Tomatoes.
 
+### Horizontally scroll/swipe to see all the columns in the table.
 
 
 |   Sno. | Title                                       | Type   | Genre                       | Country of Origin                | Released in   | Language                  | Remarks/Opinions                                                                                                                                                                                                                              | Personal Rating   |
