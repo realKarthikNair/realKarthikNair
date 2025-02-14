@@ -27,10 +27,8 @@
 - 👨‍💻 BCA Graduate from [VIPS](https://www.vips.edu), Delhi
 
 - 💻 Python, shell scripting, Android Modding
-
-- 🔭 I’m currently looking for jobs 
-
-~- 🌱 learning Java, Go, cybersecurity~
+ 
+- 🌱 learning Azure, Generative AI, cybersecurity
 
 - 📫 **realkarthiknair@gmail.com**
 
