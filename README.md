@@ -24,15 +24,19 @@
 </table>
 
 
-- 👨‍💻 BCA Graduate from [VIPS](https://www.vips.edu), Delhi
+- 🎓 BCA (Data Science) Graduate from [GGSIPU](http://www.ipu.ac.in/)/[VIPS](https://www.vips.edu), Delhi
 
-- 💻 Python, shell scripting, Android Modding
+- 👨‍🏫 Postgraduate Student at [IGNOU](https://www.ignou.ac.in/)
+
+- 🧑‍💻 AI Engineer at [TCS](https://www.tcs.com/)
+
+- 💻 Backend, Cloud, Shell Scripting, Web Scraping, Data analytics, LLMs, AI, Android Modding
  
-- 🌱 learning Azure, Generative AI, cybersecurity
+- 🌱 learning Azure, Generative AI, Cybersecurity
 
-- 📫 **realkarthiknair@gmail.com**
+- 📫 [GMail](mailto:realkarthiknair@gmail.com) | [ProtonMail](mailto:realkarthiknair@protonmail.com)
 
-## LINUX IS LOVE ❤️ 
+> LINUX IS LOVE ❤️ 
 
 
 
@@ -41,7 +45,7 @@
 <a href="https://twitter.com/realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realkarthiknair" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realkarthiknair" height="30" width="40" /></a>
 <a href="https://android.stackexchange.com/users/351427/karthik-nair" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width="70" alt="android logo" /></a>
-<a href="https://instagram.com/karthiknair.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harry_kris_" height="30" width="40" /></a>
+<a href="https://instagram.com/realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harry_kris_" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@realkarthiknair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@realkarthiknair" height="30" width="40" /></a>
 </p> -->
 
