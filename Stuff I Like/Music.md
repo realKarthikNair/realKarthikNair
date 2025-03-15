@@ -1,3 +1,3 @@
-A copy of my Liked Songs playlist on Spotify : Updated randomly.
+A copy of my Liked Songs playlist on Spotify : Last updated on March 15 2025
 
-https://open.spotify.com/playlist/3Ria3BBjsXAw1wlImv4CMP?si=d6a7c6a45d1b413f
+https://open.spotify.com/playlist/62KKIKm5CxXtOCeCJthrVf?si=619568120ac84518
