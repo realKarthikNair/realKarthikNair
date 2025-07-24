@@ -1,7 +1,7 @@
 # <img src="res/Hi.gif" width="30px" height="30px"> Hey There, I’m Karthik Nair !
 
-<details>
-<summary>Some links</summary>
+<!-- <details> -->
+<!-- <summary>Some links</summary>
 <ol>
 <li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/My_poems">Mediocre Poems written by me</a>
 <li><a href="https://github.com/realKarthikNair/realKarthikNair/tree/main/Stuff%20I%20Like">Some stuff I like</a>
@@ -14,15 +14,15 @@
 </li>
 </ol>
 </details>
-
-
+-->
+<!--
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/realKarthikNair/count.svg" alt="vistor count" height="30" width="224" /></td>
   </tr>
 </table>
-
+-->
 
 - 🎓 BCA (Data Science) Graduate from [GGSIPU](http://www.ipu.ac.in/)/[VIPS](https://www.vips.edu), Delhi
 
