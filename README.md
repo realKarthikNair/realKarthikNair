@@ -26,8 +26,6 @@
 
 - 🎓 BCA (Data Science) Graduate from [GGSIPU](http://www.ipu.ac.in/)/[VIPS](https://www.vips.edu), Delhi
 
-- 🧑‍💻 AI Engineer at [TCS](https://www.tcs.com/)
-
 - 💻 Backend, Cloud, Shell Scripting, Web Scraping, Data analytics, LLMs, AI, Android Modding
  
 - 🌱 learning Azure, Generative AI, Cybersecurity
