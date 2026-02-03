@@ -28,7 +28,7 @@
 
 - Graduate from [GGSIPU](http://www.ipu.ac.in/)/[VIPS](https://www.vips.edu), Delhi
 
-- ex AI and Backend Engineer at [TCS](http://tcs.com/). Currently looking for jobs. [Find my resume here](https://realkarthiknair.github.io/resume)
+- ex AI and Backend Engineer at [TCS](http://tcs.com/).
 
 - Backend, AI, LLMs, Cloud, Shell Scripting, Cybersecurity, Web Scraping, Data analytics
  
